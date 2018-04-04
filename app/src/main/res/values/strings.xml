@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Memory Game</string>
+  <string name="play">Play</string>
+  <string name="exit">Exit</string>
+  <string name="capture_new_photos">Capture new photos</string>
+  <string name="use_old_photos">Use old photos</string>
+
+  <string-array name="number_of_photos">
+    <item>Number of photos: 4</item>
+    <item>Number of photos: 6</item>
+    <item>Number of photos: 8</item>
+    <item>Number of photos: 10</item>
+  </string-array>
+</resources>
